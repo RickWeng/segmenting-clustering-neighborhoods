@@ -5,7 +5,7 @@ Github often has issues with rendering Jupyter notebook (i.e. Sorry, something w
 In order to obtain the data that is in the table of postal codes and to transform the data into a pandas dataframe, I firstly scraped the following Wikipedia page: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M   
 
 ## Get the Latitude and the Longitude Coordinates of Each Neighborhood
-Geocoding each neighborhood using ArcGis Geocoder.
+Geocoding each neighborhood using ArcGIS Geocoder.
 
 ## Explore and Cluster the Neighborhoods in Toronto
 ### Map Neighborhoods
