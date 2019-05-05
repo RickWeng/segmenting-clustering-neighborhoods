@@ -1,5 +1,5 @@
 # Segmenting and Clustering Neighborhoods in Toronto
-Github often has issues with rendering Jupyter notebook (i.e. Sorry, something went wrong. Reload?). Please click [here](https://nbviewer.jupyter.org/github/RickWeng/segmenting-clusterIing-neighborhoods/blob/master/segmenting-clustering-neighborhoods.ipynb) to view the Jupyter notebook.   
+Github often has issues with rendering Jupyter notebook (i.e. Sorry, something went wrong. Reload?). Please click [here](https://nbviewer.jupyter.org/github/RickWeng/segmenting-clustering-neighborhoods/blob/master/segmenting-clustering-neighborhoods.ipynb) to view the Jupyter notebook.   
 
 ## Obtain and Preprocess Postal Codes
 In order to obtain the data that is in the table of postal codes and to transform the data into a pandas dataframe, I firstly scraped the following Wikipedia page: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M   
