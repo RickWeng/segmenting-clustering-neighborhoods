@@ -9,6 +9,7 @@ Geocoding each neighborhood using ArcGis Geocoder.
 
 ## Explore and Cluster the Neighborhoods in Toronto
 ### Map Neighborhoods
+![](https://github.com/RickWeng/segmenting-clustering-neighborhoods/blob/master/neighborhoods.png)
 
 ### Explore Venues in Each Neighborhood Using Foursquare API
 Foursquare API was used to acquire information of venues. The frequency of venue categories in each neighborhood can be derived from venue data.
@@ -16,3 +17,4 @@ Foursquare API was used to acquire information of venues. The frequency of venue
 ### Cluster the Neighborhoods in Toronto
 K means clustering was used to cluster neighborhoods.   
 Elbow method was firstly used to find the best k. However, elbow method does not work very well in this case as no very clear elbow shape can be seen. Silhouette width was then used instead to help determine the optimal k value. The average silhouette score is the highest when k equals 3. However, it should be noted that clusters do not have similar sizes.
+![](https://github.com/RickWeng/segmenting-clustering-neighborhoods/blob/master/clusters.png)
